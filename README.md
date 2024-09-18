@@ -3,6 +3,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+### Name : Pragadeeswaran L
+### Reg.No : 212223240120
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
